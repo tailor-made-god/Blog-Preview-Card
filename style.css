@@ -55,8 +55,8 @@ h2 {
 .container__card {
   display: flex;
   flex-direction: column;
-  width: 327px;
-  height: 501px;
+  width: 20.4375rem;
+  height: 31.3125rem;
   background-color: white;
   border-radius: 20px;
   align-items: center;
@@ -116,8 +116,8 @@ h1:hover {
 
 @media (width >= 75em) {
   .container__card {
-    width: 384px;
-    height: 522px;
+    width: 24rem;
+    height: 32.625rem;
   }
 
   .illustration__image {
