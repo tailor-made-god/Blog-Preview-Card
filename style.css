@@ -118,6 +118,8 @@ h1:hover {
   .container__card {
     width: 24rem;
     height: 32.625rem;
+    max-width: 24rem;
+    max-height: 32.625rem;
   }
 
   .illustration__image {
